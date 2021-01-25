@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/arvind-kumar-singh-641439201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arvind-kumar-singh-641439201" height="30" width="40" /></a>
 <a href="https://kaggle.com/arvi3674" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="arvi3674" height="30" width="40" /></a>
 <a href="https://instagram.com/arvindkumarsingh248" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arvindkumarsingh248" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@arvind kumar singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@arvind kumar singh" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Arvind Kumar Singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@arvind kumar singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
