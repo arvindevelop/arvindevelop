@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arvindevelop@gmail.com**
 - 🔭 I am currently working on web development.
-- 🌱 I’m currently learning Node.js, MongoDB
+- 🌱 I’m currently learning Node.js and MongoDB.
 - <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif"  align="right" width="50%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3 align="left">Connect with me:</h3>
