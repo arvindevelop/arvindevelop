@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvindevelop" alt="arvindevelop" /></a> </p>
 
 - 📫 How to reach me **arvindevelop@gmail.com**
-- 🔭 I am currently working on web development.
+- 🔭 I am currently working on MERN Stack.
 - 🌱 I’m currently learning React.js and Node.js.
 
 <h3 align="left">Connect with me:</h3>
