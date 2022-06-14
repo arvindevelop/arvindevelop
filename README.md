@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **arvindevelop@gmail.com**
 - 🔭 I am currently working on MERN Stack.
-- 🌱 I’m currently learning React.js and Node.js.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
