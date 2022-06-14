@@ -15,6 +15,7 @@
 <!--<a href="https://kaggle.com/arvi3674" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="arvi3674" height="30" width="40" /></a>-->
 <a href="https://instagram.com/arvindkumarsingh248" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arvindkumarsingh248" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@arvi7631" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@arvind kumar singh" height="30" width="40" /></a>
+<a href="https://leetcode.com/Arvind_Kumar_Singh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Leetcode.svg" alt="@arvind kumar singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
